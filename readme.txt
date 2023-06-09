@@ -1,4 +1,2 @@
-# pharmacy website 
-# Medials 
-# output
+
 
